@@ -1,0 +1,4 @@
+event_type,severity
+normal,low
+harsh_brake,medium
+crash,high
